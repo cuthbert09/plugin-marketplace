@@ -55,8 +55,10 @@ Names, identifiers and review decisions supplied to tools are sent to Scovell an
 stored in account-scoped screening records. Adverse-media requests may use
 external news/search and AI services. Do not submit information you are not
 authorised to process. See the [terms](https://scovell.rotundahq.com/terms/) and
-[privacy page](https://scovell.rotundahq.com/privacy/); the privacy page is
-currently explicitly marked as a pilot placeholder pending a complete notice.
+[privacy notice](https://scovell.rotundahq.com/privacy/).
+
+See the [public MCP guide](https://scovell.rotundahq.com/mcp-guide/) for
+connection steps, tool behaviour, data handling, limits and support.
 
 Product and support: [Rotunda](https://rotundahq.com), scovell@rotundahq.com.
 
